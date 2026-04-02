@@ -1,14 +1,14 @@
 const productsData = [
   {
-    name: "قطعة أوبل أصلية",
-    price: 1500,
-    image: "opel_part.jpg",
+    name: "فلتر هواء أوبل استرا /opel filter astra j",
+    price: 500,
+    image: "opel f a j.jpg",
     phone: "01126998989"
   },
   {
-    name: "قطعة شيفروليه أصلية",
-    price: 1800,
-    image: "chevrolet_part.jpg",
+    name: "مساعدين خلفي شيفروليه",
+    price: 1200,
+    image: "chevrolet_part.jpg", 
     phone: "01126998989"
   }
 ];
